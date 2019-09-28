@@ -1,10 +1,3 @@
-<!--
-2019-09-21@18:20:40, Création
-2019-09-21@21:40:11, Version 0
--->
-
-Liste des BDs de la bibliothèque
-
 ```markdown
 > A
 
@@ -18,6 +11,9 @@ Liste des BDs de la bibliothèque
 |+ 1 Aldébaran
 ||- 1 La catastrophe
 ||- 2 La blonde
+|
+|+ 3 Antarès
+||- 1 Épisode 1
 |
 |+ 4 Survivants, anomalies quantiques
 || 1 Épisode 1
@@ -75,6 +71,9 @@ Liste des BDs de la bibliothèque
 |- 3 Ça va déchirer ce soir !
 |- 4 Et qui plus outre
 
++ Le chant des stryges
+|- 1 Ombres
+
 + Cryozone
 | 1 Sueurs froides
 
@@ -116,6 +115,8 @@ Liste des BDs de la bibliothèque
 |- 40 Agaguk (Yves Thériault)
 |- 44 Jacquou le croquant (Eugène Le Roy)
 
+> H
+
 > I
 
 + Imbattable
@@ -123,6 +124,11 @@ Liste des BDs de la bibliothèque
 |- 2 super-héros de proximité
 
 > J
+
++ Jérôme K. Jérôme Bloche
+|- 1 L’ombre qui tue
+|- 4 Passé recomposé
+|- 14 Un fauve en cage
 
 + Jo, Zette et Jocko (Les aventures de Jo, Zette et Jocko)
 |- La vallée des cobras
@@ -150,7 +156,9 @@ Liste des BDs de la bibliothèque
 |- 1 L’héritier
 |- 2 Le groupe W
 |- 3 O.P.A.
+|- 4 Business blues
 |- 14 La loi du dollar
+|- 21 L’étoile du matin
 
 + Léa
 |- 1 Les terres ténébreuses
@@ -209,6 +217,8 @@ Liste des BDs de la bibliothèque
 > P
 
 - Petit Paul
+
+> Q
 
 > R
 
@@ -282,6 +292,7 @@ Liste des BDs de la bibliothèque
 
 + Wayne Shelton
 |- 1 La mission
+|- 2 La trahison
 
 > X
 
@@ -299,6 +310,8 @@ Liste des BDs de la bibliothèque
 |- 20 Le jour du mayflower
 |- 23 Le message du martyr
 |- 24 L’héritage de Jason Mac Lane
+
+> Y
 
 > Z
 
