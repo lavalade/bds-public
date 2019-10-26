@@ -74,10 +74,17 @@
 + Le chant des stryges
 |- 1 Ombres
 
++ Les chroniques de l’impossible
+|- 3 La longue nuit de Strasbourg
+
 + Cryozone
 | 1 Sueurs froides
 
 > D
+
++ Dallas barr
+|- 1 Immortalité à vendre
+|- 3 Premier quartier
 
 + De silence et de sang
 |- 4 Les vêpres siciliennes
@@ -125,6 +132,9 @@
 
 > J
 
++ James Healer
+|- 2 La nuit du cobra
+
 + Jérôme K. Jérôme Bloche
 |- 1 L’ombre qui tue
 |- 4 Passé recomposé
@@ -157,6 +167,13 @@
 |- 2 Le groupe W
 |- 3 O.P.A.
 |- 4 Business blues
+|- 5 H
+|- 6 Dutch connection
+|- 7 La forteresse de Makiling
+|- 8 L’heure du tigre
+|- 9 Voir Venise…
+|- 10 Et mourir…
+|- 11 Golden Gate
 |- 14 La loi du dollar
 |- 21 L’étoile du matin
 
@@ -218,6 +235,9 @@
 
 - Petit Paul
 
++ Pierre Baumont
+|- 1 Premières rencontres
+
 > Q
 
 > R
@@ -232,6 +252,9 @@
 |+ Cycle 1
 ||- 3 Tome 3 (sur 3)
 
++ Le Scorpion
+|- 6 Le trésor du temple
+
 + Section financière
 |- 1 Corruption
 
@@ -245,6 +268,9 @@
 |- 2 Les démons de Pertransac
 
 - Les Simpson à go-go
+
++ Sœur Marie-Thérèse des Batignolles
+|- 1 Tome 1
 
 + Méga Spirou
 |- 18 2019-6-19
@@ -275,6 +301,9 @@
 
 > V
 
++ Le vagabon des limbes
+|- 8 Pour trois graines d’éternité
+
 + Vasco
 |- 1 L’or et le fer
 |- 2 Le prisonnier de Satan
@@ -283,7 +312,13 @@
 |- 7 Le diable et le Cathare
 |- 15 Le fantôme de Bruges
 
++ La vérité si je mens !
+|- 3 3
+
 - Le verrou
+
++ Victor & Anaïs
+|- 1 Un duo contre tria
 
 + Vie de merde
 |- 2 Au boulot
