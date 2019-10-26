@@ -303,10 +303,12 @@
 |- 4 SPADS
 |- 5 Rouge total
 |- 6 Le dossier Jason Fly
+|- 7 La nuit du 3 août
 |- 8 Treize contre un
 |- 10 El Cascador
 |- 11 Trois montres d’argent
 |- 12 Le jugement
+|- 13 L’enquête
 |- 20 Le jour du mayflower
 |- 23 Le message du martyr
 |- 24 L’héritage de Jason Mac Lane
