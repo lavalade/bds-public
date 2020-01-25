@@ -1,4 +1,9 @@
 ```markdown
+> 4
+
++ 421
+|- 7 Falco
+
 > A
 
 + Achile Talon
@@ -11,6 +16,9 @@
 |+ 1 Aldébaran
 ||- 1 La catastrophe
 ||- 2 La blonde
+|
+|+ 2 Bételgeuse
+||- 1 La planète
 |
 |+ 3 Antarès
 ||- 1 Épisode 1
@@ -73,6 +81,7 @@
 
 + Le chant des stryges
 |- 1 Ombres
+|- 2 Pièges
 
 + Les chroniques de l’impossible
 |- 3 La longue nuit de Strasbourg
@@ -96,6 +105,9 @@
 
 + Eightball hunter
 |- 1 Loser
+
++ L'encyclopédie du Mal
+|- 1 La maison du sang
 
 - L’enquête corse
 
@@ -184,7 +196,10 @@
 |- 1 La grande menace
 
 + Léonard
-|- Compile de génie
+|- 6 Génie en balade
+|- 25 D'où vient-tu, génie ?
+|- 46 Le génie crève l'écran
+|- [Compil. 1] Compile de génie
 
 + Lou Cale the famous
 |- 5 Le centaure tatoué
@@ -255,6 +270,9 @@
 + Le Scorpion
 |- 6 Le trésor du temple
 
++ Secrets bancaires
+|- 1.1 Les associés
+
 + Section financière
 |- 1 Corruption
 
@@ -284,6 +302,9 @@
 > T
 
 - Taxi
+
++ Le templier de Notre-Dame
+|- 2 La nuit du Golem
 
 + Titeuf
 |- 3 Ça épate les filles
@@ -328,6 +349,7 @@
 + Wayne Shelton
 |- 1 La mission
 |- 2 La trahison
+|- 3 Le contrat
 
 > X
 
