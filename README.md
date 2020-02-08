@@ -1,5 +1,5 @@
 ```markdown
-> 4
+> #
 
 + 421
 |- 7 Falco
@@ -33,6 +33,15 @@
 
 + Alix (Les aventures d’Alix)
 |- Le dernier spartiate
+
++ Alpha
+|- 1 L’échange
+
++ Angry birds
+|- 1 Opération omelette
+
++ Anne et Charles (Les aventures de Anne et Charles)
+|- 1 La porte de Brecheliant
 
 + Archibald
 |- 1 Pourfendeur de monstres
@@ -98,6 +107,9 @@
 + De silence et de sang
 |- 4 Les vêpres siciliennes
 
++ Le déserteur
+|- 1 Nuit de chagrin
+
 > E
 
 + L’effaceur
@@ -141,6 +153,12 @@
 + Imbattable
 |- 1 Justice et légumes frais
 |- 2 super-héros de proximité
+
++ L’infini
+|- 2 Mémoire interdite
+
++ I.R.\$.
+|- 1 La voie fiscale
 
 > J
 
@@ -197,6 +215,7 @@
 
 + Léonard
 |- 6 Génie en balade
+|- 19 Flagrant génie
 |- 25 D'où vient-tu, génie ?
 |- 46 Le génie crève l'écran
 |- [Compil. 1] Compile de génie
@@ -289,6 +308,8 @@
 
 + Sœur Marie-Thérèse des Batignolles
 |- 1 Tome 1
+|- 5 Sans Diocèse Fixe
+|- 6 La guère sainte
 
 + Méga Spirou
 |- 18 2019-6-19
@@ -305,6 +326,11 @@
 
 + Le templier de Notre-Dame
 |- 2 La nuit du Golem
+
++ Thorgal
+|- 1 La magicienne trahie
+|- 7 L’enfant des étoiles
+|- 9 Les archers
 
 + Titeuf
 |- 3 Ça épate les filles
