@@ -217,6 +217,7 @@
 |- 6 Génie en balade
 |- 19 Flagrant génie
 |- 25 D'où vient-tu, génie ?
+|- 30 Génie du foot
 |- 46 Le génie crève l'écran
 |- [Compil. 1] Compile de génie
 
@@ -238,6 +239,12 @@
 + Moréa
 |- 1 Le sang des anges
 |- 2 L’échine du dragon
+|- 3 Le feur du temps
+|- 4 Un parfum d’éternité
+|- 5 La brûlure des ténèbres
+|- 6 La mort dans le sang
+|- 7 La fureur des anges
+|- 8 Le temps de la fin
 
 > N
 
