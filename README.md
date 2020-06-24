@@ -88,6 +88,9 @@
 |- 3 Ça va déchirer ce soir !
 |- 4 Et qui plus outre
 
++ Le casse
+|- 1 Diamond
+
 + Le chant des stryges
 |- 1 Ombres
 |- 2 Pièges
@@ -123,6 +126,9 @@
 
 - L’enquête corse
 
++ Les errances de Julius Antoine
+|- 2 La maison
+
 > F
 
 + Les femmes en blanc
@@ -148,6 +154,9 @@
 
 > H
 
++ Hard boiled
+|- 1 Tome 1
+
 > I
 
 + Imbattable
@@ -164,6 +173,9 @@
 
 + James Healer
 |- 2 La nuit du cobra
+
++ Jason Brice
+|- 1 Ce qui est écrit
 
 + Jérôme K. Jérôme Bloche
 |- 1 L’ombre qui tue
@@ -315,6 +327,7 @@
 
 + Sœur Marie-Thérèse des Batignolles
 |- 1 Tome 1
+|- 4 Sur la terre comme au ciel…
 |- 5 Sans Diocèse Fixe
 |- 6 La guère sainte
 
@@ -333,6 +346,12 @@
 
 + Le templier de Notre-Dame
 |- 2 La nuit du Golem
+
++ Le théorème de Bell
+|- 2 Le contact
+|- 3 La solution
+
+- Le théorème de Morcom
 
 + Thorgal
 |- 1 La magicienne trahie
