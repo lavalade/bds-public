@@ -30,6 +30,7 @@
 
 + Alex Russac (Les aventures d’Alex Russac)
 |- 2 Le cirque de Dieu
+|- 4 Le sacrifice fong
 
 + Alix (Les aventures d’Alix)
 |- Le dernier spartiate
@@ -87,6 +88,7 @@
 |- 2 Ça va bien faire chier la direction
 |- 3 Ça va déchirer ce soir !
 |- 4 Et qui plus outre
+|- 5 C’est nous qui offre
 
 + Le casse
 |- 1 Diamond
@@ -113,6 +115,11 @@
 + Le déserteur
 |- 1 Nuit de chagrin
 
++ Dock 21
+|- 1 L’abîme du temps
+|- 2 Je suis un autre
+|- 3 La maison du Docteur Boogie
+
 > E
 
 + L’effaceur
@@ -128,6 +135,9 @@
 
 + Les errances de Julius Antoine
 |- 2 La maison
+
++ L’esprit de Warren
+|- 1 La dix-neuvième victime
 
 > F
 
@@ -203,6 +213,8 @@
 |- 1 L’île des sacrifiés
 
 > L
+
+- Lagune --- L’abbaye des dunes
 
 + Largo Winch
 |- 1 L’héritier
@@ -310,6 +322,8 @@
 
 + Secrets bancaires
 |- 1.1 Les associés
+
+- Le secret des bois de Lascaux
 
 + Section financière
 |- 1 Corruption
@@ -421,6 +435,9 @@
 |- 20 Le jour du mayflower
 |- 23 Le message du martyr
 |- 24 L’héritage de Jason Mac Lane
+
++ XIII mystery
+|- 4 Colonel Amos
 
 > Y
 
