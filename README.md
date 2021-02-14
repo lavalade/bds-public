@@ -58,6 +58,9 @@
 
 > B
 
++ Balade au bout du monde
+| 1 La prison
+
 + Barbara Wolf
 |- 1 Meurtre sans mobile
 
@@ -174,6 +177,7 @@
 |- 2 super-héros de proximité
 
 + L’infini
+|- 1 La citadelle du vide
 |- 2 Mémoire interdite
 
 + I.R.\$.
@@ -432,6 +436,7 @@
 |- 11 Trois montres d’argent
 |- 12 Le jugement
 |- 13 L’enquête
+|- 14 Secret defense
 |- 20 Le jour du mayflower
 |- 23 Le message du martyr
 |- 24 L’héritage de Jason Mac Lane
