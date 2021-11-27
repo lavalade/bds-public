@@ -38,6 +38,7 @@
 
 + Alpha
 	1. L’échange
+	2. Clan Bogdanov
 
 + L’ancêtre programmé
 	1. Le temps de l’éveil
@@ -106,6 +107,9 @@
 
 + Les chroniques de l’impossible
 	3. La longue nuit de Strasbourg
+
++ Cliff Burton (Une aventure de Cliff Burton)
+	1. Brouillard sur Whitehall
 
 + Cryozone
 	1. Sueurs froides
@@ -187,6 +191,9 @@
 	1. La citadelle du vide
 	2. Mémoire interdite
 
++ Les insurgés d’édaleth
+	1. Cantiques
+
 + I.R.\$.
 	1. La voie fiscale
 
@@ -241,6 +248,7 @@
 	10. Et mourir…
 	11. Golden Gate
 	14. La loi du dollar
+	19. Chassé-croisé
 	21. L’étoile du matin
 
 + Léa
@@ -248,6 +256,9 @@
 
 + Lefranc
 	1. La grande menace
+
++ Légendes d’aujourd’hui
+	3. La ville qui n’existait pas
 
 + Léonard
 	6. Génie en balade
@@ -294,6 +305,9 @@
 
 + Nash
 	1. Étoile du matin
+
++ Nero
+	3. Le disciple
 
 + Nestor Burma
 	- L’envahissant cadavre de la Plaine Monceau
@@ -373,6 +387,9 @@
 + Le templier de Notre-Dame
 	2. La nuit du Golem
 
++ Théodore Poussin
+	6. Un passager porté disparu
+
 + Le théorème de Bell
 	2. Le contact
 	3. La solution
@@ -381,6 +398,8 @@
 
 + Thorgal
 	1. La magicienne trahie
+	3. Les 3 vieillards du Pays d’Aran
+	5. Au-delà des ombres
 	7. L’enfant des étoiles
 	9. Les archers
 
