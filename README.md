@@ -26,6 +26,12 @@
 	
 	4. Survivants, anomalies quantiques
 		1. Épisode 1
+	
+	5. Retour sur Aldébaran
+		1. Épisode 1
+		2. Épisode 2
+		3. Épisode 3
+		Fin
 
 + Alex Alice, Le château des étoiles ; 1869 : La conquête de l’espace — Vol.1
 
@@ -247,6 +253,8 @@
 	9. Voir Venise…
 	10. Et mourir…
 	11. Golden Gate
+	12. Shadow
+	13. Le prix de l’argent
 	14. La loi du dollar
 	19. Chassé-croisé
 	21. L’étoile du matin
@@ -292,6 +300,7 @@
 	6. La mort dans le sang
 	7. La fureur des anges
 	8. Le temps de la fin
+	9. Noir devoir
 
 # N
 
@@ -381,6 +390,15 @@
 	1. Camilla
 
 # T
+
++ Tango
+	1. Un océan de pierre
+	2. Sable rouge
+	3. À l’ombre du Panama
+	4. Quitte ou double à Quito
+	5. Le dernier condor
+	6. Le flueve aux trois frontières
+	Fin
 
 - Taxi
 
@@ -476,4 +494,11 @@
 
 + Zéro absolu
 	1. Premier acte
+
++ Zombillénium
+	1. Gretchen
+	2. Ressources humaines
+	3. Control freaks
+	4. La fille de l’air
+	5. Vendredi noir
 ```
