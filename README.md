@@ -438,6 +438,19 @@
     5. Au-delà des ombres
     7. L’enfant des étoiles
     9. Les archers
+    15. Le maître des montagnes
+    17. La gardienne des clés
+    18. L’épée-soleil
+    19. La forteresse invisible
+    20. La marque des bannis
+    21. Le couronne d’ogotaï
+    22. Géants
+    23. La cage
+    24. Arachnéa
+    25. Le mal bleu
+    27. Le barbare
+    30. Moi, Jolan
+    31. Le bouclier de Thor
 
 + Titeuf
     3. Ça épate les filles
