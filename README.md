@@ -104,6 +104,9 @@
     4. Et qui plus outre
     5. C’est nous qui offre
 
++ Caroline Baldwin
+    5. Absurdia
+
 + Le casse
     1. Diamond
 
@@ -125,6 +128,9 @@
 + Dallas barr
     1. Immortalité à vendre
     3. Premier quartier
+
++ Dans l’ombre du Soleil
+    2. Mantell
 
 + De silence et de sang
     4. Les vêpres siciliennes
@@ -183,6 +189,9 @@
     44. Jacquou le croquant (Eugène Le Roy)
 
 # H
+
++ Hedge Fund
+    1. Des hommes d’argent
 
 + Hard boiled
     1. Tome 1
@@ -351,7 +360,9 @@
 
 # P
 
-- Petit Paul
++ Pharaon
+    3. L’incarnation de Seth
+    5. Dossiers anti
 
 + Pierre Baumont
     1. Premières rencontres
@@ -507,6 +518,7 @@
     6. Le dossier Jason Fly
     7. La nuit du 3 août
     8. Treize contre un
+    9. Pour Maria
     10. El Cascador
     11. Trois montres d’argent
     12. Le jugement
@@ -532,4 +544,7 @@
     3. Control freaks
     4. La fille de l’air
     5. Vendredi noir
+
++ Zone mortelle
+    1. Cronos
 ```
