@@ -120,8 +120,12 @@
 + Cliff Burton (Une aventure de Cliff Burton)
     1. Brouillard sur Whitehall
 
++ Le Code Zimmermann
+    1. L’opéra de la mort
+
 + Cryozone
     1. Sueurs froides
+    2. Syndrome Z
 
 # D
 
