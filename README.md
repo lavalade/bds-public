@@ -525,24 +525,37 @@
 
 # X
 
-+ XIII
-    1. Le jour du Soleil noir
-    2. Là où va l’indien…
-    3. Toutes les larmes de l’enfer
-    4. SPADS
-    5. Rouge total
-    6. Le dossier Jason Fly
-    7. La nuit du 3 août
-    8. Treize contre un
-    9. Pour Maria
-    10. El Cascador
-    11. Trois montres d’argent
-    12. Le jugement
++ [XIII](https://www.bedetheque.com/serie-7-BD-XIII.html)
+    1. Le jour du soleil noir (1984-09)
+    2. Là où va l’indien… (1985-01)
+    3. Toutes les larmes de l'enfer (1986-01)
+    4. SPADS (1987-01)
+    5. Rouge total (1988-11)
+    6. Le dossier Jason Fly (1990-01)
+    7. La nuit du 3 août (1990-10)
+    8. Treize contre Un (1991-10)
+    9. Pour Maria (1992-09)
+    10. El Cascador (1994-02)
+    11. Trois montres d'argent (1995-03)
+    12. Le jugement (1997-09)
     13. L’enquête
-    14. Secret defense
-    20. Le jour du mayflower
-    23. Le message du martyr
-    24. L’héritage de Jason Mac Lane
+        - Première partie (1999-01)
+    14. Secret défense (2000-10)
+    15. Lachez les chiens ! (2002-03)
+    16. Opération Montecristo (2004-02)
+    17. L'or de Maximilien (2005-09)
+    18. La version irlandaise (2007-11)
+    19. Le dernier round (2007-11)
+    20. Le jour du Mayflower (2011-11)
+    21. L'appât (2012-11)
+    22. Retour à Greenfalls (2013-11)
+    23. Le message du martyr (2014-11)
+    24. L'Héritage de Jason Mac Lane (2016-06)
+    25. The XIII history (2019-08)
+    26. 2132 mètres (2019-11)
+    27. Mémoire rechargée (2020-12)
+    28. Cuba, où tout a commencé (2022-10)
+    29. Moscow - Spaso House (2024-10)
 
 + XIII mystery
     4. Colonel Amos
