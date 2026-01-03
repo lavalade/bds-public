@@ -1,4 +1,3 @@
-```markdown
 # #
 
 + 421
@@ -594,4 +593,4 @@
 
 + Zone mortelle
     1. Cronos
-```
+
