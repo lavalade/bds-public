@@ -136,6 +136,18 @@
 + Dans l’ombre du Soleil
     2. Mantell
 
++ [Dantès](https://www.bedetheque.com/serie-16224-BD-Dantes.html)
+    1. La Chute d'un trader, (2007-09)
+    2. Six années en enfer, (2008-09)
+    3. Le Visage de la vengeance, (2009-08)
+    4. Pour solde de tout compte, (2010-09)
+    5. Le Complot politique, (2011-09)
+    6. L'Affrontement final, (2012-08)
+    7. Le Poison d'Ébène, (2013-09)
+    8. Vérités toxiques, (2014-09)
+    9. Contrefaçons, (2015-06)
+    10. Dernier acte, (2016-03)
+
 + De silence et de sang
     4. Les vêpres siciliennes
 
