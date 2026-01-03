@@ -14,24 +14,42 @@
     2. L’adversaire secret
 
 + Aldébaran (Les mondes d’Aldébaran)
-    1. Aldébaran
-        1. La catastrophe
-        2. La blonde
-
-    2. Bételgeuse
-        1. La planète
-
-    3. Antarès
-        1. Épisode 1
-
-    4. Survivants, anomalies quantiques
-        1. Épisode 1
-
-    5. Retour sur Aldébaran
-        1. Épisode 1
-        2. Épisode 2
-        3. Épisode 3
-        Fin
+    1. [Aldébaran](https://www.bedetheque.com/serie-1805-BD-Aldebaran.html)
+        1. La catastrophe (1994-02)
+        2. La blonde (1995-06)
+        3. La photo (1996-03)
+        4. Le groupe (1997-05)
+        5. La créature (1998-10)
+    2. [Bételgeuse](https://www.bedetheque.com/serie-1806-BD-Betelgeuse.html)
+        1. La planète (2000-01)
+        2. Les survivants (2001-03)
+        3. L'expédition (2002-05)
+        4. Les cavernes (2003-11)
+        5. L'autre (2005-08)
+    3. [Antarès](https://www.bedetheque.com/serie-15179-BD-Antares-Leo.html)
+        1. Épisode 1 (2007-04)
+        2. Épisode 2 (2009-02)
+        3. Épisode 3 (2010-02)
+        4. Épisode 4 (2011-10)
+        5. Épisode 5 (2013-10)
+        6. Épisode 6 (2015-08)
+    4. [Survivants, anomalies quantiques](https://www.bedetheque.com/serie-26616-BD-Survivants-Anomalies-quantiques.html)
+        1. Épisode 1 (2011-01)
+        2. Épisode 2 (2012-10)
+        3. Épisode 3 (2014-09)
+        4. Épisode 4 (2016-04)
+        5. Épisode 5 (2017-03)
+    5. [Retour sur Aldébaran](https://www.bedetheque.com/serie-61029-BD-Retour-sur-Aldebaran.html)
+        1. Épisode 1 (2018-05)
+        2. Épisode 2 (2019-05)
+        3. Épisode 3 (2020-10)
+    6. [Neptune](https://www.bedetheque.com/serie-77791-BD-Neptune-Leo.html)
+        1. Épisode 1 (2022-01)
+        2. Épisode 2 (2022-09)
+    7. [Bellatrix](https://www.bedetheque.com/serie-85207-BD-Bellatrix.html)
+        1. Épisode 1 (2023-09)
+        2. Épisode 2 (2024-09)
+        3. Épisode 3 (2025-10)
 
 + Alex Alice, Le château des étoiles ; 1869 : La conquête de l’espace — Vol.1
 
